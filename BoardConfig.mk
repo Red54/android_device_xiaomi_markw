@@ -78,3 +78,6 @@ RECOVERY_GRAPHICS_USE_LINELENGTH := true
 
 # Disable Mouse Cursor
 TW_INPUT_BLACKLIST := "hbtp_vm"
+
+# Asian region languages
+TW_EXTRA_LANGUAGES := true
